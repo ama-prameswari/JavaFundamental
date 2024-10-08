@@ -1,6 +1,6 @@
-## Exercise 1 - Java Fundamental
+## Java Fundamental
 
-In this exercise, I create a simple program using Java to introduce some basic programming concepts in the Java language. 
+In this practices, I create a simple program using Java to introduce some basic programming concepts in the Java language. 
 This program prints several fundamental features, performs variable declarations, conditional statements, and uses looping. 
 
 **The elements introduced in this exercise include:**  
